@@ -1,9 +1,5 @@
 ### Querying the LogEntries table with conditional expressions
 
-**Branch name:** dynamodbquery-prework
-
-Expected time required: 20 min
-
 You're creating an application that keeps track of log entries. You're storing each entry in a table called `LogEntries`
 and you want to be able to query the table in a few different ways.
 
